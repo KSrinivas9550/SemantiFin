@@ -1,7 +1,5 @@
 
 [![DOI](https://zenodo.org/badge/YOUR_BADGE_ID.svg)](https://doi.org/YOUR_DOI)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 
 # SemantiFin
 
