@@ -1,0 +1,40 @@
+project:
+  seed: 42
+  runs: 5
+
+data:
+  window_days: 30
+  chunk_words: 180
+  overlap_words: 30
+
+extractor:
+  backend: heuristic
+  model: gpt-4o
+  temperature: 0.2
+  top_p: 0.9
+  max_output_tokens: 1024
+  confidence_threshold: 0.70
+  evidence_threshold: 0.75
+  max_reprompts: 2
+
+embedding:
+  backend: hashing
+  dimension: 768
+
+narrative:
+  smoothing_beta: 0.30
+  drift_threshold: 0.25
+  risk_dimension: 8
+
+fusion:
+  source_weight: 0.40
+  evidence_weight: 0.35
+  corroboration_weight: 0.25
+  similarity_threshold: 0.75
+  contradiction_penalty: 0.20
+  uncertainty_penalty: 0.10
+
+encoder:
+  initial_dimension: 256
+  reduced_dimension: 128
+  semantic_blocks: 4
