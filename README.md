@@ -221,8 +221,7 @@ Default settings:
 ```bibtex
 @article{SemantiFin2026,
   title={SemantiFin: A Contextual Financial Insight Extraction Framework Using Large Language Models, Temporal Narrative Aggregation, and Credibility-Aware Fusion},
-  author={Author(s)},
-  journal={Journal Name},
+  author={K. Srinivas },
   year={2026},
   doi={DOI}
 }
@@ -234,7 +233,6 @@ Default settings:
 
 This project is licensed under the **MIT License**.
 
-See the `LICENSE` file for details.
 
 ---
 
