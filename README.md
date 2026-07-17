@@ -1,5 +1,7 @@
-
-[![DOI](https://zenodo.org/badge/1303592394.svg)](https://doi.org/10.5281/zenodo.21406247)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21406248.svg)](https://doi.org/10.5281/zenodo.21406248)
+[![GitHub](https://img.shields.io/badge/GitHub-SemantiFin-black?logo=github)](https://github.com/KSrinivas9550/SemantiFin)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-SemantiFin-black?logo=github)](https://github.com/KSrinivas9550/SemantiFin)
