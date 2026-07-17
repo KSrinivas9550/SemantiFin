@@ -1,6 +1,6 @@
 
 [![DOI](https://zenodo.org/badge/1303592394.svg)](https://doi.org/10.5281/zenodo.21406247)
-(https://github.com/KSrinivas9550/SemantiFin)
+[![GitHub](https://img.shields.io/badge/GitHub-SemantiFin-black?logo=github)](https://github.com/KSrinivas9550/SemantiFin)
 
 # SemantiFin
 
