@@ -78,7 +78,7 @@ SemantiFin/
 # Installation
 
 ```bash
-git clone https://github.com/KSrinivas9550/SemantiFin.git
+git clone https://github.com/KSrinivas9550/SemantiFin
 cd SemantiFin
 
 python -m venv .venv
