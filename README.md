@@ -1,10 +1,5 @@
-**DOI:** https://doi.org/10.5281/zenodo.21406248
-
-**GitHub:** https://github.com/KSrinivas9550/SemantiFin
-
-
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21406248-blue)](https://doi.org/10.5281/zenodo.21406248)
 [![GitHub](https://img.shields.io/badge/GitHub-SemantiFin-black?logo=github)](https://github.com/KSrinivas9550/SemantiFin)
-
 # SemantiFin
 
 ## A Contextual Financial Insight Extraction Framework Using Large Language Models, Temporal Narrative Aggregation, and Credibility-Aware Fusion
