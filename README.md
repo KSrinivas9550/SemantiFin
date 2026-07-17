@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/YOUR_BADGE_ID.svg)](https://doi.org/YOUR_DOI)
+[![DOI](https://zenodo.org/badge/1303592394.svg)](https://doi.org/10.5281/zenodo.21406247)
 
 # SemantiFin
 
